@@ -4,7 +4,7 @@ A machine learning solution for the Kaggle House Prices competition using XGBoos
 
 ## 🏆 Competition Overview
 
-This project tackles the [House Prices Competition](https://www.kaggle.com/competitions/home-data-for-ml-course/overview) Kaggle competition. The goal is to predict house sale prices in Ames, Iowa based on 79 explanatory variables describing various aspects of residential homes.
+This project tackles the [House Prices Kaggle Competition](https://www.kaggle.com/competitions/home-data-for-ml-course/overview). The goal is to predict house sale prices in Ames, Iowa based on 79 explanatory variables describing various aspects of residential homes.
 
 **Evaluation Metric:** Mean Absolute Error (MAE)
 
