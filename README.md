@@ -75,9 +75,9 @@ python house_prices_prediction.py
 
 ### Project Structure
 ```
-house-prices-prediction/
+House-Prices-Kaggle-Competition/
 ├── README.md
-├── house_prices_predictor.ipynb    # Main script
+├── house-prices-predictor.ipynb    # Main script
 ├── submission.csv               # Kaggle submission file
 ├── data/
 │   ├── train.csv               # Training data
