@@ -1,10 +1,10 @@
-# House Prices: Advanced Regression Techniques
+# House Prices Prediction
 
 A machine learning solution for the Kaggle House Prices competition using XGBoost and hyperparameter optimisation.
 
 ## 🏆 Competition Overview
 
-This project tackles the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) Kaggle competition. The goal is to predict house sale prices in Ames, Iowa based on 79 explanatory variables describing various aspects of residential homes.
+This project tackles the [House Prices Competition](https://www.kaggle.com/competitions/home-data-for-ml-course/overview) Kaggle competition. The goal is to predict house sale prices in Ames, Iowa based on 79 explanatory variables describing various aspects of residential homes.
 
 **Evaluation Metric:** Mean Absolute Error (MAE)
 
@@ -52,7 +52,7 @@ param_dist = {
 
 ## 📈 Results
 
-- **Leaderboard Position:** 472 (top 10%)
+- **Leaderboard Position:** 472 (top 3% of all submissions)
 - **Kaggle Public Score:** 15391.55342
 - **Validation MAE:** 16943.706897474316
 
