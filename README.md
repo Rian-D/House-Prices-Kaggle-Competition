@@ -2,7 +2,7 @@
 
 My machine learning solution for the Kaggle House Prices competition, earning me a leaderboard position of **#384** and a score of 15096.33898 (**top 3%** of all submissions).
 
-<img width="1314" alt="image" src="https://github.com/user-attachments/assets/9528e748-b2c2-41da-bb41-43ea6c085081" />
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/a02e1696-f6ea-4d5d-bf0b-daa41e390c28" />
 
 
 ## Competition Overview
