@@ -1,8 +1,8 @@
 # House Prices Prediction
 
-My machine learning solution for the Kaggle House Prices competition, earning me a leaderboard position of **#384** and a score of 15096.33898 (**top 3%** of all submissions).
+My machine learning solution for the Kaggle House Prices competition, earning me a leaderboard position of **#257** and a score of 14446.86968 (**top 2%** of all submissions).
 
-<img width="1303" alt="image" src="https://github.com/user-attachments/assets/a02e1696-f6ea-4d5d-bf0b-daa41e390c28" />
+<img width="1236" alt="image" src="https://github.com/user-attachments/assets/85336228-43b0-4b5c-a84b-b3123bf3aba0" />
 
 
 ## Competition Overview
@@ -26,12 +26,14 @@ This project tackles the [House Prices Kaggle Competition](https://www.kaggle.co
 
 - Immediate train/test split to prevent data leakage
 - Feature engineering applied to both datasets consistently
+- Train-test split to simulate real-world performance & prevent data leakage
 
-2. Preprocessing Pipeline
+2. Preprocessing Pipeline & Model Pipeline Creation
 
 - Handles missing values with appropriate strategies per feature type 
 - Scales numerical features for optimal model performance
 - One-hot encodes categorical variables
+- Preprocessing pipeline combined with model in model pipeline
 
 3. Hyperparameter Tuning
 
@@ -39,7 +41,7 @@ This project tackles the [House Prices Kaggle Competition](https://www.kaggle.co
 - Chose balanced parameter ranges to prevent underfitting & overfitting whilst ensuring runtime isn't drastically increased
 - Regularisation focus e.g reg_alpha, reg_lambda, subsample etc helps model generalise to unseen data (another feature added onto base model to reduce MAE further)
 
-4. Model Training
+4. Model Training & Validation
 
 - Chose to use XGBoost as it is often the best for regression problems using tabular data
 - Cross-validation for robust performance estimation
