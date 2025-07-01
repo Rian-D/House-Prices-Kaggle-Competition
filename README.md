@@ -1,6 +1,6 @@
 # House Prices Prediction
 
-My machine learning solution for the Kaggle House Prices competition, earning me a leaderboard position of **#231** and a score of 14292.55428 (**top 2%** of all submissions).
+My machine learning solution for the Kaggle House Prices competition, earning me a leaderboard position of **#231** and a score of 14292.55428 (**top 4%** of all submissions).
 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/5b9eee29-3f0a-4e70-995c-fd95ef2266e3" />
 
